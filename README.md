@@ -2,7 +2,14 @@
 
 > Turn any career goal into a clear, personalized roadmap. Discover what to learn, where to learn it for free, what to build, and track your job-readiness score as you progress.
 
-**Live Demo:** [skillpath-ai.vercel.app](https://skillpath-ai.vercel.app) — *coming soon, deploying below*
+<p>
+  <a href="https://pixel-perfect-liart-nu.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+  <a href="https://github.com/Dhanashreeagrawal30/pixel-perfect"><img src="https://img.shields.io/github/license/Dhanashreeagrawal30/pixel-perfect?style=for-the-badge" alt="License" /></a>
+  <a href="https://github.com/Dhanashreeagrawal30/pixel-perfect"><img src="https://img.shields.io/github/last-commit/Dhanashreeagrawal30/pixel-perfect?style=for-the-badge" alt="Last Commit" /></a>
+  <a href="https://github.com/Dhanashreeagrawal30/pixel-perfect"><img src="https://img.shields.io/github/languages/top/Dhanashreeagrawal30/pixel-perfect?style=for-the-badge&color=3178c6" alt="Top Language" /></a>
+</p>
+
+**Live Demo:** [pixel-perfect-liart-nu.vercel.app](https://pixel-perfect-liart-nu.vercel.app) ✅
 
 ---
 
